@@ -1,0 +1,11 @@
+SlimPajama-627B/
+llm_env/
+saved_model/
+trash/
+ultrachat/
+weights/
+gif_figs/
+gifs/
+IMDB_Dataset.csv
+
+
